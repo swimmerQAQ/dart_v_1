@@ -1,0 +1,15 @@
+%YAML:1.0
+---
+
+# 推测角上下限
+max_predict_angle: 25
+min_predict_angle: 20
+# 垂边点面积 垂边点比例上下限
+three_scale: 129
+max_three_propotion: 3.4
+min_three_propotion: 2.7
+#边缘比例上下限
+max_margin_propotion: 2.1
+min_margin_propotion: 1.2
+
+

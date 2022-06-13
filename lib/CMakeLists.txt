@@ -1,0 +1,8 @@
+add_subdirectory(detect)
+add_subdirectory(invertimg)
+add_subdirectory(lightbar)
+add_subdirectory(greendot)
+add_subdirectory(triangle)
+add_subdirectory(log)
+add_subdirectory(predict)
+add_subdirectory(serialPort)
